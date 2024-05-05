@@ -1,0 +1,1 @@
+The project was edited in google collab, with the given files it should be enough to run.
